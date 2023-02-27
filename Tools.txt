@@ -1,0 +1,17 @@
+VSCode
+Postman
+Nodejs
+Chrome
+Git
+DB-MongoDB
+Heroku---For production build deveolpment [https://dashboard.heroku.com/apps]
+Install Heroku CLI [https://devcenter.heroku.com/articles/heroku-cli]
+Mindmapping tools --miro[https://miro.com/app/board/uXjVPim_SMM=/]
+
+
+
+---articles
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+Web frameworks
+expressjs, koajs, sailsjs hapi.dev
