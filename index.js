@@ -2,7 +2,7 @@ const express = require('express');
 const formate = require('date-format');
 const app = express();
 
-const PORT = 8000 || process.env.PORT
+const PORT = process.env.PORT  || 8000
 
 app.get("/", (req,res)=>{
     res.status(200).send("<h1>Hello from aslam Server</h1>")
